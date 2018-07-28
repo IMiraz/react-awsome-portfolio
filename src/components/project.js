@@ -1,13 +1,10 @@
-import React, {Components} from 'react'
+import React, {Component} from 'react'
 
-class Project extends Components {
+class Project extends Component {
     render() {
-         return(
-<div>
-<h1>Project me</h1>
-
-</div>
-         )
+        return (
+            <div>Here comes Project page</div>
+        );
     }
 
 
