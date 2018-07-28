@@ -12,6 +12,28 @@
 }
 .avatar-img {
 height:250px;
-padding-top:5em
-
+padding-top:5cm
+}
+.banner-text {
+background-color:black;
+opacity: .9;
+width:75%;
+color: white;
+margin:auto
+}
+.banner-text h1 {
+  font-size:66px;
+font-weight:bold;
+color:white;
+margin:auto
+}
+.banner-text hr {
+ border-top:5px dotted white;
+width:50%;
+margin:auto;
+}
+.banner-text p {
+ color:white;
+font-size:20px;
+padding:1cm;
 }

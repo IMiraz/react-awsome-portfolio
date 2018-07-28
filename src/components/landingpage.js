@@ -10,6 +10,8 @@ class LandingPage extends Component {
          <img src="https://www.shareicon.net/download/2015/09/18/103161_man_512x512.png" className="avatar-img" />
   <div className="banner-text">
 <h1>Full Stack Developer</h1>
+<hr/>
+ <p>HTML/CSS| Bootstrap | Javascript | Node Js |PHP| React | Express</p>
   </div>
             </Cell>
             </Grid>
