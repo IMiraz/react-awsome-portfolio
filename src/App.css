@@ -40,3 +40,14 @@ margin:auto;
 font-size:20px;
 padding:1cm;
 }
+.social-link {
+display:flex;
+justify-content: space-between;
+margin: auto;
+width: 50%;
+}
+.social-link i {
+  color: white;
+  font-size:5em;
+  padding:8px;
+}
